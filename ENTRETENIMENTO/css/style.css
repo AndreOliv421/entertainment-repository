@@ -29,14 +29,14 @@ footer {
   padding: 10px;
 }
 
-.galeria {
+.seleção {
   display: flex;
   gap: 20px;
   flex-wrap: wrap;
   justify-content: center;
 }
 
-.card {
+.seções {
   background: white;
   padding: 15px;
   width: 250px;
@@ -45,7 +45,7 @@ footer {
   text-align: center;
 }
 
-.card img {
+.seções img {
   width: 100%;
   height: auto;
   border-radius: 6px;
